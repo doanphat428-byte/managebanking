@@ -13,7 +13,7 @@ int main() {
         std::cout << "3. Rut tien (Withdraw)\n";
         std::cout << "0. Thoat chuong trinh\n";
         std::cout << "============================================\n";
-        std::cout << "Nhap lua chon cua ban (0 - 3): ";
+        std::cout << "Nhap lua chon cua ban  nha nha nha nha (0 - 3): ";
         std::cin >> choice;
 
         switch (choice) {
